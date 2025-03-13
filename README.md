@@ -7,6 +7,7 @@ Fuel Price Pro is an open-source fuel price tracking application, designed speci
 - **Real-Time Price Updates**: Stay informed about the latest fuel prices from a wide range of fuel retailers.
 - **Custom Discount Profiles**: Enter your discount details for various brands and locations to see your actual pump prices.
 - **Targeted for Professional Drivers**: Tailored features and discount mechanisms that cater specifically to the needs of professional drivers.
+- **Cross Platfomr**: iOS, Android and Web interfaces.
 - **Open Source & Community Driven**: Check out the source code, contribute, or report issues on [GitHub](https://github.com).
 
 ## Installation
